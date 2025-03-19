@@ -23,13 +23,6 @@ Approach: Use the ps, top, and kill commands to monitor and manage processes, ap
 ![Screenshot 2025-03-19 121349](https://github.com/user-attachments/assets/500c8f48-aaf4-4934-861a-ad1df06e8252)
 
 
-![image](https://github.com/user-attachments/assets/6cc4e942-e853-4b04-999d-3be7244b7c34)
-
-
-![image](https://github.com/user-attachments/assets/53164714-e249-4de9-a1c0-0df4cf9038a9)
-
-
-![image](https://github.com/user-attachments/assets/28b6cacd-26be-4cc9-bd48-b723247e9c95)
 
 
 
