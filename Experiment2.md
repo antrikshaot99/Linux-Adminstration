@@ -5,7 +5,7 @@ discretionary strings of characters. Braces contain a comma-separated list of st
 
 ![image](https://github.com/user-attachments/assets/734b40fe-2aa0-422f-8de3-8fab4a4bbc55)
 
-	Gedit man page   
+
 
  ![image](https://github.com/user-attachments/assets/dacae3e7-f7e7-4ed3-a070-b73c0cf958bd)
 
