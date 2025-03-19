@@ -11,6 +11,7 @@ sudo chown :groupname file.txt : Change Only the Group.
 ![image](https://github.com/user-attachments/assets/99674a06-1ce7-4a1b-97f7-87c9b101ca59)
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/005e15a8-3fbc-4d40-b388-4d9986634671)
+
 
 
