@@ -5,7 +5,8 @@ sudo chown username:groupname file.txt : Change Both Owner and Group.
 sudo chown :groupname file.txt : Change Only the Group. 
 
 
-![image](https://github.com/user-attachments/assets/95769ba4-cb2b-4d24-9b34-b034f4c20043)
+![Screenshot 2025-03-19 124351](https://github.com/user-attachments/assets/0422ae89-7507-44a3-9201-e28318333fc6)
+
 
 
 ![image](https://github.com/user-attachments/assets/99674a06-1ce7-4a1b-97f7-87c9b101ca59)
