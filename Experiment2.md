@@ -10,9 +10,10 @@ discretionary strings of characters. Braces contain a comma-separated list of st
  ![image](https://github.com/user-attachments/assets/dacae3e7-f7e7-4ed3-a070-b73c0cf958bd)
 
 
-![image](https://github.com/user-attachments/assets/fcb78f6a-75f1-458d-b646-4e3ed413be02)
+![Screenshot 2025-03-19 113947](https://github.com/user-attachments/assets/4df43aaf-ea28-400a-9d6b-14efb3cc0173)
 
-![image](https://github.com/user-attachments/assets/b401781f-c051-415d-9dfe-039b9bebcad7)
+
+
 
 
 Commands used: man gedit man -k ext4 echo file{1,2,3}.txt echo file{1..5}.txt echo pre{A,B,C}post
