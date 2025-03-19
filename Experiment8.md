@@ -11,4 +11,5 @@ Approach: This command retrieves system information and saves it to a file named
 
 
 
+![Screenshot 2025-03-19 125205](https://github.com/user-attachments/assets/b6bd0aec-9d72-441a-a575-683ed9630c94)
 
