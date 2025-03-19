@@ -14,3 +14,5 @@ discretionary strings of characters. Braces contain a comma-separated list of st
 
 ![image](https://github.com/user-attachments/assets/b401781f-c051-415d-9dfe-039b9bebcad7)
 
+
+Commands used: man gedit man -k ext4 echo file{1,2,3}.txt echo file{1..5}.txt echo pre{A,B,C}post
