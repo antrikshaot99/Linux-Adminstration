@@ -8,4 +8,9 @@ Approach- Use the touch command with brace expansion to create the files and the
 ![image](https://github.com/user-attachments/assets/b23660d9-32da-4887-a3a9-27544f3b0848)
 
 
-Commands used: touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi mkdir family friends work
+
+
+
+
+![image](https://github.com/user-attachments/assets/26255c8b-c9ee-42f8-9539-1fc100480f65)
+
